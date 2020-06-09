@@ -1,4 +1,4 @@
-Get Seasons
+## Seasons Application
 
 This app gets user's location using getLocation javascript function and shows the season by calculating in which hemisphere and month they are in.
 
